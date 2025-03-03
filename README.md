@@ -4,7 +4,7 @@
 
 - [x] 2025-03-02 16:35 更新 [全英羽毛球公开赛中国队历年冠军记录 (1982-2024) | 完整统计](https://www.radyhuang.com/badminton/all-england-open-china-champions/)
 - [x] 2025-03-01 17:45 更新 [德国羽毛球公开赛中国队历年冠军记录 (1982-2024) | 完整统计](https://www.radyhuang.com/badminton/german-open-china-champions/)
-- [ ] 
+
 
 <!--
 **Rady/rady** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
